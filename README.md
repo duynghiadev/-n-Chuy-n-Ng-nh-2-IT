@@ -1,3 +1,15 @@
+# Project Introduction
+
+Hello everyone who has viewed our project. This is the project we worked on for the second specialized project course. Our team consists of 2 members:
+
+1. **Member 1:** Đinh Xuân Thìn.  
+   - Student ID: 20IT350
+
+2. **Member 2:** Lê Nguyễn Duy Nghĩa.  
+   - Student ID: 20IT323
+
+We developed a cross-platform application that can run on mobile, iOS, Android, etc. Thank you all for checking out our project.
+
 # A new Flutter project.
 
 ## Getting Started
