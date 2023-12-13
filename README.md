@@ -1,6 +1,6 @@
 # Project Introduction
 
-Hello everyone who has viewed our project. This is the project we worked on for the second specialized project course. Our team consists of 2 members:
+Hello everyone who has viewed our project. This is the project we worked on for the second specialized project course (Đồ Án Chuyên Ngành 2). Our team consists of 2 members:
 
 1. **Member 1:** Đinh Xuân Thìn.  
    - Student ID: 20IT350
